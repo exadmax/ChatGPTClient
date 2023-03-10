@@ -1,0 +1,14 @@
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\ChatGPTClientApplication.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\service\openai\service\ChatGPTClientService.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\ChatGPTResponse.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\service\openai\client\AIClient.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\Message.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\TranscriptionRequest.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\ChatGPTRequest.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\settings\OpenAIClientConfig.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\Choice.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\WhisperTranscriptionRequest.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\ChatRequest.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\WhisperTranscriptionResponse.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\restcontroller\OpenAIClientController.java
+C:\User\appl\workspace\chatbot\src\main\java\com\exadmax\chatgpt\dto\Usage.java
